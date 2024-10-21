@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "ubuntu";
+}
+
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+@font-face {
+    font-family: "ubuntu";
+    src: url(assets/fonts/Ubuntu-Regular.ttf);
+}
+
+.active {
+    color: #0009EA;
+}
+
+.user {
+    margin-top: 15px;
+}
+
+.error {
+    margin-top: 20px;
+}

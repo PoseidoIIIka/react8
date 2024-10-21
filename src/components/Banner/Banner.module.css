@@ -1,0 +1,14 @@
+.banner{
+    height: 800px;
+    width: 100%;
+    background-image: url(../../assets/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.btns {
+    position: absolute; 
+    bottom: -200px; 
+    right: 100px; 
+}

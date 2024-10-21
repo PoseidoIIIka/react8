@@ -1,0 +1,19 @@
+.btn3 {
+    background-color: #D9D9D9;
+    font-size: 16px;
+    color: black;
+    border-radius: 4px;
+    border: none;
+    padding: 8px 25px;
+    cursor: pointer;
+    font-family: "ubuntu-med";
+}
+
+@font-face {
+    font-family: "ubuntu-med";
+    src: url(../../assets/fonts/Ubuntu-Medium.ttf);
+}
+
+.blue {
+    color: #0009EA;
+}
